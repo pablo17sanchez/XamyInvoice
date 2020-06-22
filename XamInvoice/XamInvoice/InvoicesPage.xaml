@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             
+              Title="InvoiceIt"
+             x:Class="XamInvoice.InvoicesPage">
+  
+    <ContentPage.Content>
+        <StackLayout Margin="0,25,0,0" Orientation="Vertical">
+
+            <Button ImageSource="folder.png"  Clicked="PickImage" HeightRequest="80" WidthRequest="80"  Text="Buscar Factura"></Button>
+            <Button x:Name="takephoto" ImageSource="camara.png" Clicked="TakePhoto"  Text="Tomar factura"></Button>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                
+                </Grid.RowDefinitions>
+
+                <Image x:Name="foto" />
+            </Grid>
+        </StackLayout>
+       
+
+
+
+    </ContentPage.Content>
+</ContentPage>

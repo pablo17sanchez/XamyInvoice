@@ -1,0 +1,15 @@
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\bin\Debug\netstandard2.0\XamInvoice.deps.json
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\bin\Debug\netstandard2.0\XamInvoice.dll
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\bin\Debug\netstandard2.0\ref\XamInvoice.dll
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\bin\Debug\netstandard2.0\XamInvoice.pdb
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\InvoicesPage.xaml.g.cs
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\XamInvoice.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\XamInvoice.AssemblyInfo.cs
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\XamInvoice.dll
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\ref\XamInvoice.dll
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\XamInvoice.pdb
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\XamInvoice.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pablo\source\repos\XamInvoice\XamInvoice\XamInvoice\obj\Debug\netstandard2.0\XamInvoice.csprojAssemblyReference.cache
